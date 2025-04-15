@@ -7,6 +7,7 @@ This was an attempt to turn my authentic idea into something real. No recommenda
 Built a dataset right from scratch, manually calculated all the ratios, cleaned the data, transformed it and comprehensively designed the Power BI report to present the finfings as clearly as possible.
 
  Would  recommend using Power Bi app or service to open the file.
+PDF versons may sometimes lead to loss of visuals while exporting!!
 
 
 A short description of the project
